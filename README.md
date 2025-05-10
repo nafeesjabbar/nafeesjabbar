@@ -23,7 +23,7 @@ I’ve been in the tech industry for over two years, mainly focusing on Oracle d
 
 *   🌍  I'm based in United Kingdom
 *   ✉️  You can contact me at [njabbar90@gmail.com](mailto:njabbar90@gmail.com)
-*   🧠  I'm learning C# - SQL - .NET
+*   🧠  I'm learning C# - SQL - Python - VB.Net 
 *   ⚡  Enjoy reading up on anything tech related.
   
 <p align="left">
